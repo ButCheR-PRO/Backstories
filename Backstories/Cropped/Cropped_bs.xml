@@ -1,0 +1,472 @@
+<Title>Colony settler</Title>
+<TitleShort>Settler</TitleShort>
+<BaseDesc>NAME was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks.</BaseDesc>
+
+<Title>Medieval farm oaf</Title>
+<TitleShort>Oaf</TitleShort>
+<BaseDesc>Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities.</BaseDesc>
+
+<Title>Medieval lord</Title>
+<TitleShort>Noble</TitleShort>
+<BaseDesc>NAME was a lord on a preindustrial planet. HECAP went to parties, managed the underlings, and even learned some swordplay.\n\nHISCAP soft hands did not hold a work tool during that entire time. HECAP considers manual labor to be beneath HIM.</BaseDesc>
+
+<Title>Urbworld entrepreneur</Title>
+<TitleShort>Entrepreneur</TitleShort>
+<BaseDesc>In the urbworlds, most suffer. But someone has to run the corporations.\n\nNAME learned the skills of the trade - greasing palms and technical analysis. HECAP is a sociointellectual machine.</BaseDesc>
+
+<Title>Deep space miner</Title>
+<TitleShort>Miner</TitleShort>
+<BaseDesc>NAME did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. HECAP used HIS hands-on industrial skills daily - and wasn't bad in a bar fight either.</BaseDesc>
+
+<Title>Navy scientist</Title>
+<TitleShort>Scientist</TitleShort>
+<BaseDesc>Interstellar warfare is won by technology, so imperial navies are always on the peak of modern research. Even better, they have first access to Transcendent artifacts because they find them in space.\n\nNAME worked in a navy lab.</BaseDesc>
+
+<Title>Military commissar</Title>
+<TitleShort>Commissar</TitleShort>
+<BaseDesc>NAME was an internal spymaster in an Imperial army battalion. HECAP made sure that the men were loyal, and did not fall back unless ordered. This made HIM unpopular, but HE gained great skill at detecting the slightest dishonesty.</BaseDesc>
+
+<Title>Space pirate</Title>
+<TitleShort>Pirate</TitleShort>
+<BaseDesc>Piracy appears everywhere that governments are weak and society spread thin. NAME was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit.</BaseDesc>
+
+<Title>Pit brawler</Title>
+<TitleShort>Brawler</TitleShort>
+<BaseDesc>NAME was nine years old when HE got in HIS first fight. HECAP won, but more important was the enjoyment of HIS audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal.</BaseDesc>
+
+<Title>Illegal shipwright</Title>
+<TitleShort>Shipwright</TitleShort>
+<BaseDesc>There is a law that say that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. NAME discovered that there is great profit to be made, however, from those who are uninterested in these laws.</BaseDesc>
+
+<Title>Courtesean</Title>
+<TitleShort>Courtesean</TitleShort>
+<BaseDesc>NAME was used for HIS body by hundreds of customers in brothels on several planets. HECAP gained some mental marks and a special kind of street smarts.</BaseDesc>
+
+<Title>Space marine</Title>
+<TitleShort>Marine</TitleShort>
+<BaseDesc>NAME was a warrior in an Imperial navy. HISCAP job was to punch into enemy starships, gun down the crew, and capture the ship intact. And HE was good at it.</BaseDesc>
+
+<Title>Assassin</Title>
+<TitleShort>Assassin</TitleShort>
+<BaseDesc>NAME was a professional assassin. HECAP was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset.</BaseDesc>
+
+
+<Title>Hermit</Title>
+<TitleShort>Hermit</TitleShort>
+<BaseDesc>Worn out by the pressures of social interaction, NAME left HIS crowded midworld city to live a simple life in the wilderness. There, HE spent HIS days alone, tending HIS garden and crafting the simple tools HE needed to survive.</BaseDesc>
+
+<Title>Midworld chef</Title>
+<TitleShort>Chef</TitleShort>
+<BaseDesc>NAME ran a high-class midworld restaurant. HECAP was famous among patrons for HIS creative culinary specialties, and infamous among kitchen workers for HIS casual disdain for grunt work.</BaseDesc>
+
+<Title>Sickly child</Title>
+<TitleShort>Patient</TitleShort>
+<BaseDesc>As a child, NAME suffered from a rare disease. Quarantined in a research hospital, HE had minimal human contact and got little physical exercise. In the sterile hospital environment, however, HE became very familiar with science and medicine.</BaseDesc>
+
+<Title>Medieval minstrel</Title>
+<TitleShort>Minstrel</TitleShort>
+<BaseDesc>NAME was a traveling entertainer on a medieval world.\n\nHECAP could always be found telling stories or singing songs, and is capable of protecting HIMself from the dangers of the road. However, HECAP was always conspicuously absent whenever there was hard labour to be done.</BaseDesc>
+
+<Title>Housemate</Title>
+<TitleShort>Housemate</TitleShort>
+<BaseDesc>As an adult, NAME kept house and cared for children while HIS spouse worked.</BaseDesc>
+
+<Title>Glitterworld empath</Title>
+<TitleShort>Empath</TitleShort>
+<BaseDesc>NAME had an amazing ability to relate to others and mediate conflict. HECAP was selected to train as an empath. The training intensified HIS natural abilities, but HE became unable to harm others.</BaseDesc>
+
+<Title>Shelter child</Title>
+<TitleShort>Shelterkid</TitleShort>
+<BaseDesc>NAME grew up in a shelter deep beneath a toxic world. HECAP received a comprehensive education, but had no opportunity to do physical labour.</BaseDesc>
+
+<Title>Medieval doctor</Title>
+<TitleShort>Quack</TitleShort>
+<BaseDesc>NAME worked as a doctor on a medieval planet. HECAP firmly believes that most ailments can be cured with a little bloodletting.\n\nHECAP was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head.</BaseDesc>
+
+<Title>Inventor</Title>
+<TitleShort>Inventor</TitleShort>
+<BaseDesc>On HIS homeworld, NAME worked as a moderately successful inventor. HECAP developed several minor technologies.</BaseDesc>
+
+<Title>Teacher</Title>
+<TitleShort>Teacher</TitleShort>
+<BaseDesc>NAME was educated in the liberal arts and taught at a public school. HECAP was widely knowledgeable and well-liked by HIS students.</BaseDesc>
+
+<Title>Industrial orphan</Title>
+<TitleShort>Orphan</TitleShort>
+<BaseDesc>NAME never knew HIS parents. HISCAP earliest memories were of drudgery in the mines and workhouses of HIS industrial world.\n\nBecause of this, HE never received a proper education.</BaseDesc>
+
+<Title>Scout</Title>
+<TitleShort>Scout</TitleShort>
+<BaseDesc>Born to colonial administrators from a small imperial power, NAME was enrolled in a youth program that taught military scouting skills.\n\nHECAP learned to survive in the wilderness, to obey, and not to ask questions.</BaseDesc>
+
+<Title>Joywire artist</Title>
+<TitleShort>Joywirer</TitleShort>
+<BaseDesc>NAME worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, HE began selling HIS products on the black market.</BaseDesc>
+
+<Title>Frightened child</Title>
+<TitleShort>Scared</TitleShort>
+<BaseDesc>NAME grew up with a laundry list of phobias and neuroses. HECAP feared, among other things, doctors and foodborne pathogens.\n\nAs a result, HE learned to cook and care for HIMself, but many of HIS fears dog HIM in adulthood.</BaseDesc>
+
+<Title>Conceptual artist</Title>
+<TitleShort>Artist</TitleShort>
+<BaseDesc>NAME was well-known in art circles on HIS home world for HIS unique and creative conceptual artworks.\n\nNobody was sure exactly what HE was trying to communicate, but HIS pieces were highly valued by collectors.</BaseDesc>
+
+<Title>Glitterworld surgeon</Title>
+<TitleShort>Surgeon</TitleShort>
+<BaseDesc>NAME worked as a surgeon on a world mostly free of disease and human suffering.\n\nHISCAP job mostly involved elaborate and creative cosmetic surgeries. HECAP has a good understanding of human biology, but never had to remove a cancer вЂ” or a bullet.</BaseDesc>
+
+<Title>Luddite rebel</Title>
+<TitleShort>Luddite</TitleShort>
+<BaseDesc>When the majority of people on HIS world chose to give up their individuality and biological humanity to join together in an online hivemind, NAME joined a rebel faction that chose to forsake most technology.</BaseDesc>
+
+<Title>Bartender</Title>
+<TitleShort>Barkeep</TitleShort>
+<BaseDesc>NAME worked as a bartender on a seedy space station. The job entailed one part drink mixing, one part diplomacy, and one part head-bashing.</BaseDesc>
+
+<Title>Caveworld tender</Title>
+<TitleShort>Cave kid</TitleShort>
+<BaseDesc>NAME grew up in cave complex deep beneath the surface of an inhospitable world. HECAP worked with the other children tending the tribeвЂ™s fungus crops.</BaseDesc>
+
+<Title>Caveworld tunneler</Title>
+<TitleShort>Tunneler</TitleShort>
+<BaseDesc>NAME worked as a digger in the massive underground cave complex.\n\nHECAP knows rock so well that HE can almost navigate caves by smell.</BaseDesc>
+
+<Title>Medieval slave</Title>
+<BaseDesc>NAME grew up pulling carts and digging holes on a medieval world. Simple manual labor is HIS oldest companion - along with the master's lash.\n\nHECAP didn't learn to read until age nine.</BaseDesc>
+<Slot>Childhood</Slot>
+
+<Title>Medieval lordling</Title>
+<BaseDesc>NAME was a minor noble in an old kingdom on a medieval world. HECAP grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but NAME learned early the ways of social manipulation.</BaseDesc>
+
+<Title>Urbworld urchin</Title>
+<BaseDesc>The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. NAME grew up in the dark, unwanted reaches of such a place. HECAP had to fight for every scrap of food.</BaseDesc>
+
+<Title>Vatgrown soldier</Title>
+<BaseDesc>NAME wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during HIS accelerated growth, NAME still has a proclivity for combat of all kinds and an aversion to human contact.</BaseDesc>
+<Slot>Childhood</Slot>
+
+<Title>Pyromaniac</Title>
+<TitleShort></TitleShort>
+<BaseDesc>From an early age, NAME had an unhealthy fascination with fire. HECAP would set refuse heaps ablaze and become so entranced by the flames HE would absent-mindedly burn HIMself.\n\nOne day while playing with matches, HE carelessly burned down HIS home...with HIS parents and siblings still inside.</BaseDesc>
+
+<Title>Mute</Title>
+<BaseDesc>NAME was greatly affected by a traumatic event early in HIS life. For many years HE refused to speak to people, preferring instead to play with HIS household's numerous pets.</BaseDesc>
+
+<Title>Refugee</Title>
+<BaseDesc>War broke out in NAME's home when HE was a baby. HISCAP parents fled with HIM, seeking safety wherever they could find it. NAME's earliest memories are of being taught how to defend HIMself.\n\nThe violence and destruction HE witnessed left HIM scarred for life.</BaseDesc>
+
+<Title>Music lover</Title>
+<BaseDesc>As a child, NAME had a talent for playing musical instruments and singing. HECAP was given expert training and loved to perform in recitals and concerts, though the lavish praise HE received made HIM a little self-obsessed.</BaseDesc>
+
+<Title>Child star</Title>
+<BaseDesc>NAME was well-known throughout HIS homeworld as a child actor in films and TV shows. HISCAP fame put HIM in contact with many different kinds of people, but also tended to get in the way of HIS education.</BaseDesc>
+
+<Title>Child spy</Title>
+<BaseDesc>Children are often presumed innocent, and can be ideal as spies. NAME was trained in the art of infiltration and information-gathering when HE was just nine years old.\n\nHISCAP years behind enemy lines and the war-torn nature of HIS homeworld meant HE had limited opportunity for education.</BaseDesc>
+
+<Title>Shopkeeper</Title>
+<BaseDesc>NAME's mother was often ill, and it fell to HIM to run the store which was their only source of income. HECAP learned a little about the exotic artifacts which HE sold, and a lot about the art of the deal.</BaseDesc>
+
+<Title>Nurse</Title>
+<TitleShort>Nurse</TitleShort>
+<BaseDesc>NAME worked in an industrial-era hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but HE could always find time for a chat with a patient.</BaseDesc>
+
+<Title>House servant</Title>
+<TitleShort>Servant</TitleShort>
+<BaseDesc>Early in HIS adulthood, NAME was kidnapped and sold to wealthy aristocrats as a domestic servant.\n\nHECAP got to know the kitchens and basements of HIS master's mansion well, but never did any work outside.</BaseDesc>
+
+<Title>Bodyguard</Title>
+<TitleShort>Bodyguard</TitleShort>
+<BaseDesc>NAME found work on a midworld, protecting whoever paid HIM from harm. HECAP gained proficiency in many different combat forms, and was known for HIS ruthlessness against those who crossed HIM.</BaseDesc>
+
+<Title>Novelist</Title>
+<TitleShort>Novelist</TitleShort>
+<BaseDesc>NAME lived on a glitterworld, penning wildly successful novels. HECAP lived a carefree lifestyle, spending HIS days writing and HIS nights partying...and never did a day's manual labour in HIS life.</BaseDesc>
+
+<Title>Mathematician</Title>
+<TitleShort>Math prof</TitleShort>
+<BaseDesc>NAME did mathematical research at a university.\n\nHECAP spent much of HIS spare time immersed in shooting simulations, though HECAP was frequently ridiculed by other players for HIS terrible aim.</BaseDesc>
+
+<Title>Paramedic</Title>
+<TitleShort>Paramedic</TitleShort>
+<BaseDesc>NAME's job was to respond rapidly to medical emergencies. HECAP is used to dealing with severe injuries with only limited medical supplies.\n\nHECAP treated so many gunshot wounds over the years that even seeing a gun made HIM uncomfortable.</BaseDesc>
+
+<Title>Castaway</Title>
+<TitleShort>Castaway</TitleShort>
+<BaseDesc>NAME was the only survivor of a ship crash on an unhabited animal world. For many years until HIS rescue HE scrounged an existence out of whatever HE could find.\n\nHISCAP survival skills became razor-sharp, but spending so long alone severely dampened HIS conversatial abilities.</BaseDesc>
+
+<Title>Gardener</Title>
+<TitleShort>Gardener</TitleShort>
+<BaseDesc>On industrial worlds, wealth concentrates in the hands of those who own the factories and sell the goods. NAME worked at the mansion of one such rich family, tending the lavish gardens as part of a team of servants.</BaseDesc>
+
+<Title>Mafia boss</Title>
+<TitleShort>Boss</TitleShort>
+<BaseDesc>NAME was a high-ranking member of an urbworld crime syndicate.\n\nHECAP bribed officials, maintained the loyalty of HIS subordinates, and extracted overdue payments - by any means necessary.</BaseDesc>
+
+<Title>Torturer</Title>
+<TitleShort>Torturer</TitleShort>
+<BaseDesc>Working for a tyrannical monarch on a medieval world, NAME earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with NAME's smile scarred permanently into their nightmares.</BaseDesc>
+
+<Title>Construction engineer</Title>
+<TitleShort>Builder</TitleShort>
+<BaseDesc>NAME was a construction worker on a midworld. HECAP lead a team which built everything from office blocks to cathedrals.\n\nHISCAP busy job and numerous nearby fast-food outlets meant HE never cooked for HIMself.</BaseDesc>
+
+<Title>Blacksmith</Title>
+<TitleShort>Blacksmith</TitleShort>
+<BaseDesc>As a smith on a medieval world, NAME gained a reputation for the high quality of HIS work. HECAP wasn't bad at using the swords HE forged either.</BaseDesc>
+
+<Title>Charity worker</Title>
+<TitleShort>Altruist</TitleShort>
+<BaseDesc>Glitterworlds are havens of safety and comfort for those lucky enough to live there, but NAME could not ignore nearby planets where people suffered in poverty. HECAP spent HIS working life appealing for donations and supporting those in need.</BaseDesc>
+
+<Title>Defector</Title>
+<TitleShort>Defector</TitleShort>
+<BaseDesc>Early in HIS adulthood, NAME decided to leave the oppressive dictatorship where HE lived. HISCAP defection was not well-received, and agents were sent out after HIM.\n\nHE spent years on the run, treating HIS own wounds so no doctor could betray HIM. The ordeal made HIM bitter and untrusting.</BaseDesc>
+
+<Title>Factory worker</Title>
+<TitleShort>Worker</TitleShort>
+<BaseDesc>NAME did menial, unskilled work in an industrial-era factory. HISCAP job also included caring for the mules and horses which transported goods around the city.</BaseDesc>
+
+<Title>Ranch owner</Title>
+<TitleShort>Rancher</TitleShort>
+<BaseDesc>NAME owned and operated a successful ranch where HE raised animals for meat and wool.\n\nHECAP refused to do any dumb labour HE could pay someone else to do for HIM.</BaseDesc>
+
+<Title>Low-wage worker</Title>
+<TitleShort>Grunt</TitleShort>
+<BaseDesc>NAME worked a variety of casual jobs to support HIS family, gaining a set of basic hands-on skills.</BaseDesc>
+
+<Title>Model</Title>
+<TitleShort>Model</TitleShort>
+<BaseDesc>NAME modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations.</BaseDesc>
+
+<Title>Taxonomist</Title>
+<TitleShort>Taxonomist</TitleShort>
+<BaseDesc>NAME travelled between star systems, studying and classifying the plant and animal life HE found in the hopes of creating a complete catalogue.</BaseDesc>
+
+<Title>Geologist</Title>
+<TitleShort>Geologist</TitleShort>
+<BaseDesc>NAME worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring HIS years underground HE also gained experience repairing drilling machines and other technical equipment.</BaseDesc>
+
+<Title>Convent child</Title>
+<BaseDesc>The child of an illicit affair, NAME was bought up by nuns in a medieval convent. HECAP learned the value of hard work and submission, but was taught that technology is heretical.</BaseDesc>
+
+<Title>Test subject</Title>
+<BaseDesc>On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. NAME was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn HIM into a perfect super-soldier.</BaseDesc>
+
+<Title>Medical assistant</Title>
+<BaseDesc>NAME was born during a catastrophic war in which both sides used napalm extensively. HECAP grew up helping HIS parents in an infirmary, treating the cascade of horrific burns from the battlefields. HECAP was left with a lifelong fear of fire.</BaseDesc>
+
+<Title>Cult child</Title>
+<BaseDesc>NAME was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter HIS first glimpse of the outside world, HE decided to run away.</BaseDesc>
+
+<Title>Wreckage explorer</Title>
+<BaseDesc>Two generations before NAME was born, an apocalyptic war dragged HIS home planet into anarchy. NAME was tasked with watching HIS tribe's herds, but often shirked HIS duties to go exploring the crashed warships scattered around the planet.</BaseDesc>
+
+<Title>Apocalypse survivor</Title>
+<BaseDesc>NAME was born during a time of unrest on HIS homeworld, as climate change threatened mass starvation and flooding. As HE grew up the situation worsened - billions died and peaceful states descended into anarchy. NAME and HIS parents did whatever they had to to survive.</BaseDesc>
+<Slot>Childhood</Slot>
+
+<Title>Story writer</Title>
+<BaseDesc>As a child, NAME was addicted to reading. HECAP would spend all day in HIS local library with HIS nose in a book. When budget cuts forced the library to close, NAME was distraught. HE decided to fill the gap by writing HIS own stories instead.</BaseDesc>
+
+<Title>Sailor</Title>
+<TitleShort>Sailor</TitleShort>
+<BaseDesc>NAME traversed the oceans on journeys of exploration, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. HECAP loved the sea so much HE refused to do all but the barest minimum of work on land, except to sell the treasures HE collected.</BaseDesc>
+
+<Title>Jailbird</Title>
+<TitleShort>Jailbird</TitleShort>
+<BaseDesc>NAME spent most of HIS life in prisons, where HE was put to work in the kitchens. HECAP had a habit of getting into fights, and developed an aggressive way of speaking.</BaseDesc>
+
+<Title>Actor</Title>
+<TitleShort>Actor</TitleShort>
+<BaseDesc>NAME travelled HIS homeworld with a company of actors, playing to packed theatres and loving audiences everywhere. HECAP was a perfectionist, and made HIS own props and costumes rather than use the ones HE was given.</BaseDesc>
+
+<Title>Tactician</Title>
+<TitleShort>Tactician</TitleShort>
+<BaseDesc>NAME joined the space navy in an unstable system, fraught with large-scale interplanetary wars. HECAP turned out to have a sharp mind for battle, and became adept at commanding large armies to great effect.</BaseDesc>
+
+<Title>Glitterworld officer</Title>
+<TitleShort>Officer</TitleShort>
+<BaseDesc>Though glitterworlds are peaceful places, they often remain prepared for war. NAME's unit rarely saw any real action.\n\nThough HE pursued HIS artistic hobbies, HIS subordinates preferred to entertain themselves by brawling, so NAME got good at breaking up fights.</BaseDesc>
+
+<Title>Taster</Title>
+<TitleShort>Taster</TitleShort>
+<BaseDesc>As the taster for a medieval king, any dish served at the royal table had to be sampled first by NAME. HECAP lived a decadent lifestyle at court, getting fat and doing very little work.</BaseDesc>
+
+<Title>Biosphere manager</Title>
+<TitleShort>Botanist</TitleShort>
+<BaseDesc>NAME lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. HECAP managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty.</BaseDesc>
+
+<Title>Veterinarian</Title>
+<TitleShort>Vet</TitleShort>
+<BaseDesc>NAME treated sick and injured animals for a living. Seeing their suffering affected HIS stance on the practice of eating meat, and for many years HE lived as a vegetarian, rejecting the meat-loving culinary tradition of HIS homeworld.</BaseDesc>
+
+<Title>Explosives expert</Title>
+<TitleShort>Blaster</TitleShort>
+<BaseDesc>NAME was an explosive engineer employed in mines. HECAP took HIS job very seriously and was well-versed in the technicalities - so much so that HE refused to demean HIMself by helping with the clean-up once HIS carefully-calculated explosion was complete.</BaseDesc>
+
+<Title>Counsellor</Title>
+<TitleShort>Counsellor</TitleShort>
+<BaseDesc>A terrifying trauma when NAME was a young adult caused HIM to develop a serious eating disorder. With counselling HE learned to have a healthier relationship with food, and decided to put HIS new skills to use helping others overcome their emotional problems.</BaseDesc>
+
+<Title>Recruiter</Title>
+<TitleShort>Recruiter</TitleShort>
+<BaseDesc>NAME was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\nHECAP travelled HIS homeworld, judging the young people HE met to determine if they might be suitable for training.</BaseDesc>
+
+<Title>Psychiatric patient</Title>
+<TitleShort>Patient</TitleShort>
+<BaseDesc>NAME spent most of HIS adult life in an insane asylum. HIS industrial homeworld had a poor understanding of mental illness, and HE was treated more like an animal than a person.\n\nThough HE eventually recovered and was released, HIS experience dampened many of HIS basic life skills.</BaseDesc>
+
+<Title>Drifter</Title>
+<TitleShort>Drifter</TitleShort>
+<BaseDesc>NAME never figured out what to do with HIS life. HECAP travelled often, taking up casual work wherever HE found it.\n\nHECAP also occasionally worked on a novel that HE knew would be a bestseller - just as soon as HE could find a publisher who was interested.</BaseDesc>
+
+<Title>VR designer</Title>
+<TitleShort>Game dev</TitleShort>
+<BaseDesc>NAME designed virtual reality simulations for glitterworld citizens. HECAP paid great attention to the details of HIS worlds, including learning all HE could about plant life to make HIS landscapes more realistic.</BaseDesc>
+
+<Title>Human computer</Title>
+<TitleShort>Computer</TitleShort>
+<BaseDesc>NAME turned out to have an excellent memory and a gift for performing complex calculations in HIS head. A midworld dictator decided to employ NAME to keep track of HIS state's finances and expenditure, since electrical computers were too susceptible to hacking.</BaseDesc>
+
+<Title>Architect</Title>
+<TitleShort>Architect</TitleShort> 
+<BaseDesc>NAME designed and constructed buildings. On HIS glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled HIM to push the artistic limits of the craft, but also meant HE never had to get HIS hands dirty at building sites.</BaseDesc>
+
+<Title>Message carrier</Title>
+<TitleShort>Messenger</TitleShort>
+<BaseDesc>On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. NAME was that somebody.</BaseDesc>
+
+<Title>Sculptor</Title>
+<TitleShort>Sculptor</TitleShort>
+<BaseDesc>NAME started off sculpting person-sized chunks of stone, but HE soon began to think bigger. With the help of mining robots, HECAP learned how to carve huge monuments out of cliffsides. Soon the nature parks of the glitterworld where HE lived were full of giant rock figures.</BaseDesc>
+
+<Title>Machine collector</Title>
+<TitleShort>Collector</TitleShort>
+<BaseDesc>NAME was obsessed with old machines and arcane pieces of technology. HECAP obtained them wherever HE could, and loved taking them apart to see how they worked.\n\nHE had a habit of talking about HIS collection long after people around HIM had stopped listening.</BaseDesc>
+
+<Title>Sheriff</Title>
+<TitleShort>Sheriff</TitleShort>
+<BaseDesc>NAME was the law enforcer in an isolated industrial town. HECAP was known for having an arrogant attitude and a mean streak. HECAP refused to lift so much as a finger unless it was for money, alcohol, or revenge.</BaseDesc>
+
+
+<Title>Hiveworld drone</Title>
+<TitleShort>Drone</TitleShort>
+<BaseDesc>NAME worked as a mindless construction drone in a massive hiveworld civilization. Though HE is now freed from the brutal social experiments to which HE was subjected, HE remains incapable of creative thought and leadership.</BaseDesc>
+
+<Title>Evangelist</Title>
+<TitleShort>Evangelist</TitleShort>
+<BaseDesc>On HIS 21st birthday, NAME experienced a religious awakening. HECAP decided to spend the rest of HIS life spreading the word of HIS deity, the beauty of its culture, and its unusual medical tradition.</BaseDesc>
+
+<Title>Tunnelworld illuminator</Title>
+<TitleShort>Illuminator</TitleShort>
+<BaseDesc>Among tunnel-dwellers, those with vision as strong as NAMEвЂ™s are revered as sages. HECAP would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger.</BaseDesc>
+
+<Title>Herbalist</Title>
+<TitleShort>Herbalist</TitleShort>
+<BaseDesc>NAME lived in the forest near a village. Though many of the villagers feared HIM, sick villagers would come to HIM to purchase salves and poultices made from the herbs HE grew in HIS garden. HECAP was happy to help them вЂ” for a price.</BaseDesc>
+
+<Title>Coma child</Title>
+<TitleShort>Coma</TitleShort>
+<BaseDesc>A childhood accident put NAME into a coma. HECAP didnвЂ™t wake up until HE was in HIS late teens. HISCAP body never recovered from the years of inactivity, but people tend to take pity on HIM when they hear HIS story.</BaseDesc>
+
+<Title>Civil servant</Title>
+<TitleShort>Clerk</TitleShort>
+<BaseDesc>NAME worked as a low-ranking administrator for a moribund government bureaucracy. HECAP is most at home filling out complicated paperwork and playing office politics.</BaseDesc>
+
+<Title>Organ farm</Title>
+<TitleShort>Organ farm</TitleShort>
+<BaseDesc>NAME was raised in an illegal underground organ farm. HISCAP body was used to grow organic implants for wounded mercenaries. Though HIS upbringing has left HIM haunted, it has also given HIM a unique understanding of human biology.</BaseDesc>
+
+<Title>Ascetic priest</Title>
+<TitleShort>Priest</TitleShort>
+<BaseDesc>After taking a vow of silence, NAME joined a monastery on a peaceful backwater planet to spend HIS days in quiet contemplation.\n\nHECAP found happiness growing vegetables in the garden and making cheese in the monastery cellars.</BaseDesc>
+
+<Title>Escaped convict</Title>
+<TitleShort>Escapee</TitleShort>
+<BaseDesc>NAME denies involvement in the crimes that brought about HIS incarceration in a brutal penal colony. HECAP escaped by tunnelling beneath the perimeter using modified cutlery.</BaseDesc>
+
+<Title>Starship janitor</Title>
+<TitleShort>Janitor</TitleShort>
+<BaseDesc>While other passengers pass the years between star systems in cryptosleep sarcophagi, NAME had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids.</BaseDesc>
+
+<Title>Gatherer</Title>
+<TitleShort>Gatherer</TitleShort>
+<BaseDesc>NAME is a master gatherer. HECAP can find food in the most barren of places using HIS deep knowledge of plants, roots, and berries.</BaseDesc>
+
+<Title>Loner</Title>
+<TitleShort>Loner</TitleShort>
+<BaseDesc>Loner never much liked the tribal council or the yearly festivals. HECAP prefers the open plain and the lonely whistle of wind through the rocks.\n\nHECAP visits HIS tribe from time to time, but for the most part HE takes care of HIMself using HIS own survival skills.</BaseDesc>
+
+
+<Title>Con artist</Title>
+<TitleShort>Con artist</TitleShort>
+<BaseDesc>NAME never created anything in HIS life. HECAP did, however, prove to be a natural at getting others to give HIM what they had created.</BaseDesc>
+
+
+<Title>Abandoned child</Title>
+<TitleShort>Abandoned</TitleShort>
+<BaseDesc>NAME was born sickly. Thinking that HE would only burden the tribe, HIS parents left HIM out in the elements. Somehow, HE survived.</BaseDesc>
+
+<Title>Reclusive child</Title>
+<TitleShort>Reclusive</TitleShort>
+<BaseDesc>NAME didnвЂ™t learn to speak until HE was nearly 5 years old, and, even then, HE preferred to keep to HIMself. When HE was in HIS early teens, HE made a habit of wandering off from the village to live in the wilderness for weeks at a time.</BaseDesc>
+
+<Title>Herder</Title>
+<TitleShort>Herder</TitleShort>
+<BaseDesc>As a child, NAME tended the tribeвЂ™s muffalo herds, keeping them safe from predators and treating the sick. It was quiet work, but HE enjoyed being away from people.</BaseDesc>
+
+<Title>Scavenger</Title>
+<TitleShort>Scavenger</TitleShort>
+<BaseDesc>NAME spent HIS childhood escaping grunt work to go digging through wrecks and ruins for treasures. HISCAP natural curiosity got HIM into a lot of trouble, but it also yielded many interesting finds.</BaseDesc>
+
+<Title>Cave child</Title>
+<TitleShort>Cave</TitleShort>
+<BaseDesc>NAME grew up in a large and intricate cave complex that extended deep into a mountainside. HECAP helped the adults maintain and improve the deep caves.</BaseDesc>
+
+<Title>Sole survivor</Title>
+<TitleShort>Survivor</TitleShort>
+<baseDesc>NAMEвЂ™s entire tribe was wiped out in a raid. Though HE was adopted by another group, HE was emotionally scarred, and preferred to stay near home, cooking and tending crops.</baseDesc>
+
+<Title>Vengeful child</Title>
+<TitleShort>Vengeful</TitleShort>
+<BaseDesc>As a child, NAME returned to HIS village to find that it had been wiped out by bandits. HECAP swore revenge on the attackers and began a violent rampage across the wilderness.</BaseDesc>
+
+<Title>Fire tender</Title>
+<TitleShort>Fire</TitleShort>
+<BaseDesc>In HIS childhood, NAME was responsible for keeping the tribeвЂ™s fire going. HECAP took this responsibility very seriously.</BaseDesc>
+
+<Title>Healer</Title>
+<TitleShort>Healer</TitleShort>
+<BaseDesc>After HIS tribeвЂ™s elder healer was killed in a raid, NAME took on the role. HECAP spent HIS days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies.</BaseDesc>
+
+<Title>Scout</Title>
+<TitleShort>Scout</TitleShort>
+<BaseDesc>Since HIS tribe has made contact with local outlanders, NAME has contracted HIS services out as a guide to the local area. Frequent contact with ancient relics has made HIM fairly comfortable with the old technology.</BaseDesc>
+
+<Title>Digger</Title>
+<TitleShort>Digger</TitleShort>
+<BaseDesc>NAME and HIS tribe carved their home deep into the side of a mountain. NAME feels most at home picking through rock and shoring up cave walls.</BaseDesc>
+
+<Title>Muffalo shaman</Title>
+<TitleShort>Shaman</TitleShort>
+<BaseDesc>Because of HIS quiet wisdom and great strength, NAME became the spiritual leader for a nomadic tribe that followed the herds of roaming muffalo.</BaseDesc>
+
+<Title>Lore keeper</Title>
+<TitleShort>Keeper</TitleShort>
+<BaseDesc>NAME was one of a long line of lore keepers in HIS tribe. Every night around the fire, HECAP would pass on ancient knowledge and helpful wisdom through stories.</BaseDesc>
+
+<Title>Weaver</Title>
+<TitleShort>Weaver</TitleShort>
+<BaseDesc>NAME was an expert at working muffalo wool, plant fibres and natural dyes into beautiful clothing for HIS kin. HISCAP beautiful handicrafts were traded frequently between local tribes.</BaseDesc>
+
+<Title>Cave tender</Title>
+<TitleShort>Tender</TitleShort>
+<BaseDesc>While the others were out hunting and foraging, NAME would stay at home to cook and take care of the young and sick.</BaseDesc>
+
+<Title>Warrior</Title>
+<TitleShort>Warrior</TitleShort>
+<BaseDesc>NAME was a fearsome warrior, proficient with many weapons. HECAP participated in many battles.</BaseDesc>
+
+<Title>Tribe child</Title>
+<BaseDesc>NAME grew up in the tribe, running around the village, moving with the muffalo herds, learning essential skills from HIS parents.\n\nHECAP never learned to read and never saw a machine that wasn't an ancient ruin.</BaseDesc>
