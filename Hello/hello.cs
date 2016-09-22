@@ -10,7 +10,7 @@ namespace Hello
     {
         static Inject()
         {
-        	// удалить строчку ниже
+        
             foreach (Backstory current in BackstoryDatabase.allBackstories.Values)
             {
             	// Adulthood
